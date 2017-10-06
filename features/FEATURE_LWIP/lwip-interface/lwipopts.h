@@ -30,7 +30,7 @@
 #endif
 
 // Operating System 
-#define NO_SYS                      0
+#define NO_SYS                      1
 
 #if MBED_CONF_LWIP_IPV4_ENABLED
 #define LWIP_IPV4                   1
